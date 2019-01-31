@@ -1,0 +1,60 @@
+.hdr{
+    font-family: 'Rubik', sans-serif;
+    padding: 10px;
+    background-color: black;
+    color: coral;
+    max-width: 960px;
+ 
+}
+h2{
+        margin: auto;
+}
+h4{
+        margin: auto;
+}
+body {
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px;
+  background-color: lightslategray;
+}
+p{
+margin-bottom: -10px;
+    margin-top: -10px;
+    padding: 20px;
+    text-align: center;
+      margin-right: auto;
+  margin-left:  auto;
+  max-width: 600px;
+  background-color: whitesmoke;
+}
+#bodyhdr{
+    text-align: center;
+     margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px;
+  background-color: whitesmoke;
+}
+.pkmn{
+    align-content: center;
+     margin-right: auto;
+  margin-left:  auto;
+  max-width: 600px;
+  background-color: whitesmoke;
+
+}
+footer{
+    font-display: 'Rubik', sans-serif;
+    text-align: center;
+    align-content: center;
+     margin-right: auto;
+  margin-left:  auto;
+  max-width: 600px;
+  background-color: whitesmoke;
+}
+.card{
+        font-display: 'Rubik', sans-serif;
+    text-align: center;
+    align-content: center;
+  background-color: whitesmoke;
+}
